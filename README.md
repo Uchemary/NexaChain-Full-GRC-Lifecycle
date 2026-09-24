@@ -45,7 +45,7 @@ AI generation, demonstrating genuine GRC knowledge and analytical capability.
 | Phase 2 | Document Request Email to Head of Compliance | ✅ Complete |
 | Phase 3 | Governance Review Findings Report (12 findings) | ✅ Complete |
 | Phase 4 | Risk Register and Risk Heatmap | ✅ Complete 
-| Phase 5 | ISO 27001 Gap Analysis, NIST CSF Assessment, UK GDPR Checklist | ⏳ Pending 
+| Phase 5 | ISO 27001 Gap Analysis, NIST CSF Assessment, UK GDPR Checklist | ✅ Complete  
 | Phase 6 | AI Governance Assessment Report | ⏳ Pending 
 | Phase 7 | Master Findings Log and Corrective Action Plan | ⏳ Pending 
 | Phase 8 | Executive Risk Dashboard | ⏳ Pending 
