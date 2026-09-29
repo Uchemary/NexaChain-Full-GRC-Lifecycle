@@ -79,4 +79,4 @@ No CISO or Security Lead, No Business Continuity Plan, No DPO appointed.
 
 ## Analyst
 **Uche Mary Ifeyinwa **
-GRC Analyst | Fintech and Crypto Compliance Specialist
+GRC Analyst
